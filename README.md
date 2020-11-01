@@ -166,7 +166,7 @@ $ git push --set-upstream origin master
 
 5. git에서 repository 만들기
 6. git init : 초기화
-7. git remote add origin <repository url>
+7. git remote add origin  https://github.com/corone-hi/movie_app_2020.git
 8. git add .
 9. git commit -m <repository url>
 10. git commit -m <내가 원하는 이름>
