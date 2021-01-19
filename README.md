@@ -1,7 +1,7 @@
 Movie App 2020
 노마드 코더 강의 
 
-React JS Fundametals Course {2019 Update!}
+React JS Fundametals Course. . Also, How to github
 
 
 
